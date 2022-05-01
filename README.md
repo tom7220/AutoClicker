@@ -8,4 +8,5 @@ pyautogui
 How to install packages
 
 pip install keyboard
+
 pip install pyautogui
