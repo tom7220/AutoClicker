@@ -5,7 +5,8 @@ keyboard
 pyautogui
 
 
-How to install packages
+How to install packages in a terminal / shell
+
 
 pip install keyboard
 
